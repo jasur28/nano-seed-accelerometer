@@ -1,0 +1,13 @@
+# ===== Qt =====
+desktop_gui/build/
+desktop_gui/.qtcreator/
+desktop_gui/CMakeFiles/
+desktop_gui/CMakeCache.txt
+
+# ===== PlatformIO =====
+firmware/.pio/
+firmware/.vscode/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
